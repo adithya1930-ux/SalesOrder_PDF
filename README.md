@@ -9,5 +9,6 @@ NOTE : I already include this logo in ftl.if you want to use the logo.use this.
 4) Existing PDF contains some random value. Avoid that loacte \applications\order\template\order\OrderReportConditions.fo.ftl
    <fo:block font-size="14pt" font-weight="bold" text-align="center">sales order</fo:block>   remove the sales oder text
 
-5) Separate files for Header,Contact and Body 
+5) Separate files for Header,Contact and Body. path : \applications\order\template\order
+   
 6)QuoteScreen.xml ----> FIND Screen : "DefaultQuotePDF"..It is the screen for the pdf view.
